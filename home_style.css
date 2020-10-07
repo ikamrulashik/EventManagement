@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-nav li a{
+    padding: 10 10px; 
+}
+.navbar-right a{
+    text-decoration: none;
+    list-style: none;
+    margin: 0px 20px;
+}
+ul li{
+    margin-left: 20px;
+}
+/*footer*/
+.footer{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.page-footer{
+    background-color: #0A0A0A;
+    color: #605F5F;
+}
+.footer-copyright{
+    background-color: #0A0A0A;
+    color:#605F5F;
+}
+.col-md-12 a{
+    color:#605F5F;
+    padding: 10px;
+}
+ul li{
+    padding: 1px;
+}
+.footer a{
+    color: #605F5F;
+}

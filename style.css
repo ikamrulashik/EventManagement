@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(images/pexels.jpg);
+    
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 25px;
+    color: white;
+}
+/*index*/
+.header h1{
+    color: white;
+}
+.card{
+    float: left;
+    margin: 150px;
+    margin-left: 180px;
+}
+#ul{
+    background-color: black;
+    float: right;
+    margin-right: 80px;
+    padding: 20px;
+    opacity: 0.9;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+#ul2{
+    background-color: black;
+    float: right;
+    margin-right: 80px;
+    padding: 20px;
+    opacity: 0.9;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.form-group a{
+    color: white;
+}
+label{
+    color: white;
+}
+.card-text{
+    color: #B89974;
+    font-family: Dancing Script OT;
+}
+/*footer*/
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+ }
+.page-footer{
+    background-color: #0A0A0A;
+    color: #605F5F;
+}
+.footer-copyright{
+    background-color: #0A0A0A;
+    color:#605F5F;
+}
+.col-md-12 a{
+    color:#605F5F;
+    padding: 10px;
+}
+ul li{
+    padding: 1px;
+}
+.footer a{
+    color: #605F5F;
+}
